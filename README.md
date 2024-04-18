@@ -1,7 +1,7 @@
 
 ### Olá! Bem vindo ao meu GitHub 👋
 
-- 🔭 Atualmente trabalho como analista de suporte, mas busco minha primeira vaga como desenvolvedor
+- 🔭 Atualmente trabalho como Desenvolvedor Fullstack, desenvolvendo software na área de gestão pública
 - 🌱 Estudando Java, Spring e Angular
 - 📫 Contacte-me através do [Linkedin](https://www.linkedin.com/in/fabriciohenriquesilva/) 
 
