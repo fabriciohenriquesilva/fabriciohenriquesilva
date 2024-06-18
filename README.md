@@ -2,7 +2,7 @@
 ### Olá! Bem vindo ao meu GitHub 👋
 
 - 🔭 Atualmente trabalho como Desenvolvedor Fullstack, desenvolvendo software na área de gestão pública
-- 🌱 Estudando Java, Spring e Angular
+- 🌱 Minha stack atual é Java (Spring) e JavaScript/Typescript (Angular)
 - 📫 Contacte-me através do [Linkedin](https://www.linkedin.com/in/fabriciohenriquesilva/) 
 
 ---
